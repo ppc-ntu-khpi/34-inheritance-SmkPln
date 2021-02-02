@@ -9,7 +9,7 @@
 ----
 ## Результат в NetBeans IDE: 
 
-<img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/blob/master/images/Lizard.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/blob/master/images/Lizard.png" width="100%"/>.
 
 
 
