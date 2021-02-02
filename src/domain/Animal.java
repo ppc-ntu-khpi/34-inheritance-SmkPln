@@ -4,25 +4,32 @@ public class Animal {
 
     protected String name;
 
+    protected int age;
+
     protected int weight;
+
+    protected String typeofmovement;
 
     public Animal() {
         name="generic animal";
-        weight=25;
+        weight=30;
     }
 
     public void eat() {
-        System.out.println("Animal eating...");
+    System.out.println("It eats");
+    }
+
+    public void sleep() {
+    System.out.println("It is sleeping");
     }
 
     public void speak() {
-        System.out.println("Animal speaking...");
+    System.out.println("It is speaking");
     }
 
     @Override
     public String toString() {
-        return "My animal:" + "\nName:\t" + name + "\nWeight:\t" + weight+" kg";
+        return "Animal:" + "\nName: \t" + name + "\nAge:\t" + age + " \nWeight:\t" + weight + " \nType of movement:\t" + typeofmovement;
     }
 
- 
 }
