@@ -1,10 +1,11 @@
 # Практична робота "Реалізація успадкування"
 ## Ящірка 
+
 <img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Ящірка.png" width="100%"/>
 ## Діаграма 
 <img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Lizard_Diagram.png" width="100%"/>
 ## Результат в NetBeans IDE 
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Lizard.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/edit/master/images/Lizard.png" width="100%"/>
 
 
 
@@ -13,8 +14,8 @@
 
 Для прикладу я змоделював **звичайнісінького кота**😉
 
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/cat.jpg" width="100%"/>
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Cat-Diagram.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/edit/master/images/cat.jpg" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/edit/master/images/Cat-Diagram.png" width="100%"/>
 
 ## В рамках практичної роботи ви маєте зробити наступне:
 1. подумайте, які риси та поведінка притаманні всім без винятку тваринам 
