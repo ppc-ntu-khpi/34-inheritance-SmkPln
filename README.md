@@ -2,10 +2,10 @@
 ## Ящірка 
 
 <img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/blob/master/images/%D0%AF%D1%89%D1%96%D1%80%D0%BA%D0%B0.png" width="40%"/>
-## Діаграма 
+## Діаграма:
 
 <img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/blob/master/images/Lizard_Diagram.png" width="100%"/>
-## Результат в NetBeans IDE 
+## Результат в NetBeans IDE: 
 
 <img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/blob/master/images/Lizard.png" width="100%"/>
 
