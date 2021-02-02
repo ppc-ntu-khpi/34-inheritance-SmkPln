@@ -1,7 +1,7 @@
 # Практична робота "Реалізація успадкування"
 ## Ящірка 
 
-<img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/blob/master/images/%D0%AF%D1%89%D1%96%D1%80%D0%BA%D0%B0.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/blob/master/images/%D0%AF%D1%89%D1%96%D1%80%D0%BA%D0%B0.png" width="40%"/>
 ## Діаграма 
 <img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Lizard_Diagram.png" width="100%"/>
 ## Результат в NetBeans IDE 
