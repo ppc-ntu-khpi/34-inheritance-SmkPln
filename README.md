@@ -1,10 +1,28 @@
 # Практична робота "Реалізація успадкування"
-Цей репозиторій містить приклад виконання та інструкції для виконання практичної роботи з наслідування в JAVA. 
+## Ящірка 
+
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/blob/master/images/%D0%AF%D1%89%D1%96%D1%80%D0%BA%D0%B0.png" width="40%"/>
+
+
+## Діаграма:
+
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/blob/master/images/Lizard_Diagram.png" width="100%"/>
+
+
+## Результат в NetBeans IDE: 
+
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/blob/master/images/Lizard.png" width="100%"/>
+
+
+
+
+----
+# Хід роботи
 
 Для прикладу я змоделював **звичайнісінького кота**😉
 
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/cat.jpg" width="100%"/>
-<img src="https://github.com/ppc-ntu-khpi/Inheritance-Starter/blob/master/images/Cat-Diagram.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/edit/master/images/cat.jpg" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-SmkPln/edit/master/images/Cat-Diagram.png" width="100%"/>
 
 ## В рамках практичної роботи ви маєте зробити наступне:
 1. подумайте, які риси та поведінка притаманні всім без винятку тваринам 
